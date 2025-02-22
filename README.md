@@ -17,10 +17,10 @@ BASIC-PORTFOLIO-WEBSITE/
 │   ├── CONTACT.png
 │   ├── GFG160.png
 │   ├── HOME.png
-│   ├── PROECTS.png
+│   ├── PROJECTS.png
 │   ├── profile.png
 │   ├── profile2.jpg
-│   ├── SATYA AMAN RESU
+│   ├── SATYA AMAN RESUME
 │   ├── ZOMATO1.png
 │   ├── ZOMATO2.png
 │── about.css            # Styles for about page
@@ -46,28 +46,25 @@ Simply open `index.html` in a web browser to view the portfolio.
 
 ## 📸 Screenshots
 
-To add screenshots of the website, place images inside the `FILES/` folder and use the following Markdown format:
-
-```md
 ### Home Page
 ![Home Page](FILES/HOME.png)
 
 ### About Page
+
 ![About Page](FILES/ABOUT.png)
 
 ### Projects Page
-![Projects Page](FILES/PROECTS.png)
+![Projects Page](FILES/PROJECTS.png)
 
 ### Contact Page
 ![Contact Page](FILES/CONTACT.png)
-```
 
 ## 📌 Technologies Used
 - **HTML5** – Structuring the content.
 - **CSS3** – Styling and responsiveness.
 
 ## ✨ Live Demo
-[Click here to view](https://amansatya.github.io/BASIC-PORTFOLIO-WEBSITE/) *(Replace with live link if deployed)*
+[Click here to view](https://amansatya.github.io/BASIC-PORTFOLIO-WEBSITE/)
 
 ## 📝 License
 This project is licensed under the MIT License.
@@ -75,8 +72,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 - **Email:** satyaaman1012@gmail.com
 - **LinkedIn:** [Satya Aman](https://www.linkedin.com/in/satya-aman-00938a318/)
-- **LeetCode:** [Profile](https://leetcode.com/u/amansatya/)
-- **GeeksforGeeks:** [Profile](https://www.geeksforgeeks.org/user/amansatya_10/)
+- **Instagram:** [Profile](https://www.instagram.com/amansatya_10/)
 
 ---
 Feel free to contribute and improve this project! 🚀
