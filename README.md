@@ -20,7 +20,7 @@ BASIC-PORTFOLIO-WEBSITE/
 │   ├── PROJECTS.png
 │   ├── profile.png
 │   ├── profile2.jpg
-│   ├── SATYA AMAN RESUME
+│   ├── RESUME
 │   ├── ZOMATO1.png
 │   ├── ZOMATO2.png
 │── about.css            # Styles for about page
