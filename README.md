@@ -15,7 +15,8 @@ BASIC-PORTFOLIO-WEBSITE/
 │── FILES/               # Images and assets
 │   ├── ABOUT.png
 │   ├── CONTACT.png
-│   ├── GFG160.png
+│   ├── NETFLIX 1.png
+│   ├── NETFLIX 2.png
 │   ├── HOME.png
 │   ├── PROJECTS.png
 │   ├── profile.png
